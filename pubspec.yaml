@@ -2,3 +2,5 @@ name: example_hop
 description: A sample command-line application
 dependencies:
   unittest: any
+dev_dependencies:
+  hop: any
